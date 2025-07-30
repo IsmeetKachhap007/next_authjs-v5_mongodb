@@ -14,7 +14,7 @@ Before you begin, ensure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone git@github.com:diwashbhattarai999/Next-Auth-v5.git
+   git clone [https::/github.com/ismeetakchhap007/next_authjs-v5_mongodb.git](https://github.com/IsmeetKachhap007/next_authjs-v5_mongodb)
 
 2. **Change into the project directory:**
 
